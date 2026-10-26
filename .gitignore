@@ -1,0 +1,14 @@
+config.json
+.DS_Store
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.session
+*.log
+state.json
+.lock
+.coverage
+build/
+dist/
+*.egg-info/
